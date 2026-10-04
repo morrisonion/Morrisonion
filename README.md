@@ -15,3 +15,6 @@
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.youtube.com/https://youtube.com/@morrisyt2004?si=6nL3HAA9CyncE2vr" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<h2>Check out Boost11</h2> 
+<p><a target="_blank" href="https://github.com/morrisonion/Boost11" style="display: inline-block;"><img src="https://raw.githubusercontent.com/morrisonion/Boost11/refs/heads/main/icon.png" alt="Boost11" /></a></p>
+

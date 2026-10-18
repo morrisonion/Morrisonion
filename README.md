@@ -14,8 +14,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 
-  <details>
-  <summary>🎭 Memes (Click to open)</summary>
+<details>
+  <summary><h2>🎭 Memes (Click to open)</h2></summary>
   
   <p align="center">
     <img src="assets/absoluteterminal.png" alt="Absolute Terminal" width="400">
@@ -23,6 +23,7 @@
     <em>Absolute Terminal</em>
   </p>
 </details>
+
 
 
 

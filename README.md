@@ -13,8 +13,16 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.youtube.com/https://youtube.com/@morrisyt2004?si=6nL3HAA9CyncE2vr" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<h2>Check out Boost11</h2> 
-<p><a target="_blank" href="https://github.com/morrisonion/Boost11" style="display: inline-block;"><img src="https://raw.githubusercontent.com/morrisonion/Boost11/refs/heads/main/icon.png" alt="Boost11" /></a></p>
+
+  <details>
+  <summary>🎭 Memes (Click to open)</summary>
+  
+  <p align="center">
+    <img src="assets/absoluteterminal.png" alt="Absolute Terminal" width="400">
+    <br>
+    <em>Absolute Terminal</em>
+  </p>
+</details>
+
+
 

@@ -7,7 +7,7 @@
 	<code><img width="50" src="assets/css.png" alt="CSS" title="CSS"/></code>
 	<code><img width="50" src="assets/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="assets/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="55" src="assets/windows11.png" alt="Windows 11" title="Windows 11"/></code>
+	<code><img width="60" src="assets/windows11.png" alt="Windows 11" title="Windows 11"/></code>
 	<code><img width="50" src="assets/c.png" alt="C" title="C"/></code>
 	<code><img width="50" src="assets/c++.png" alt="C++" title="C++"/></code>
 	<code><img width="55" src="assets/c%23.png" alt="C#" title="C#"/></code>

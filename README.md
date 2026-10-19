@@ -12,6 +12,7 @@
 	<code><img width="50" src="assets/c++.png" alt="C++" title="C++"/></code>
 	<code><img width="55" src="assets/c%23.png" alt="C#" title="C#"/></code>
 	<code><img width="50" src="assets/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="assets/go.png" alt="Go" title="Go"/></code>
 </div>
 
 <details>
